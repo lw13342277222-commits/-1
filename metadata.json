@@ -1,0 +1,6 @@
+{
+  "name": "海参供需平台",
+  "description": "专为50-60岁行业用户打造的专业、严谨的海参供需信息对接与海报分享平台，支持辽宁、山东、福建、河北等主产地的规格分级筛选、货主认证及基地实勘管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
